@@ -208,7 +208,7 @@ header .input-group input {
   display: none;
 }
 header h2.logo {
-  font-size: 75px;
+  font-size: 60px;
   font-family: "Mayan";
   color: #f9a930;
 }
@@ -845,7 +845,7 @@ footer {
   background-image: url(home_bg.jpg);
 }
 footer h2.logo {
-  font-size: 75px;
+  font-size: 60px;
   font-family: "Mayan";
   color: #f9a930;
 }
